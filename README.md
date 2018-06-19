@@ -1,5 +1,5 @@
 # pymonitor
-This tool will monitor the general info(process, core, os etc) and performance info(memory, load,disk space etc).
+This tool will monitor the general info(process, core, os etc) and performance info(memory, load,disk space etc) of All Linux servers.
 Also it will poll performance data in to the db for every two minutes.It will send a report for every day.
 
 
